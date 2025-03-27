@@ -1,0 +1,208 @@
+{
+	"properties": [
+        {
+            "id":"prop1",
+			"type":"House",
+            "bedrooms":3,
+			"price":750000,
+			"tenure":"Freehold",
+			"description":"Attractive three bedroom semi-detached family home situated within 0.5 miles of Petts Wood station with fast trains to London and within easy walking distance of local shops, schools, bus routes and National Trust woodland. The property comprises; two receptions, fitted 18'9 x 10'1 kitchen/breakfast room and conservatory. The property also benefits from having a utility room and cloakroom. To the first floor there are three bedrooms and a family bathroom with separate WC. Additional features include double glazing, gas central heating and a well presented interior...",
+			"location":"Petts Wood Road, Petts Wood, Orpington BR5",
+			"picture":"/images/prop1.jpeg",
+			"url":"properties/prop1.html",
+            "added": {
+                "month":"October",
+                "day":12,
+                "year":2022
+            },
+            "images":[
+                "/images/prop1.jpeg",
+                "/images/prop1-2.jpeg",
+                "/images/prop1-3.jpeg",
+                "/images/prop1-4.jpeg",
+                "/images/prop1-5.jpeg",
+                "/images/prop1-6.jpeg",
+                "/images/prop1-7.jpeg"
+            ],
+            "floorPlan":"/images/prop1-floorplan.png",
+            "longDescrip":"Attractive three-bedroom semi-detached family home situated within 0.5 miles of Petts Wood station, offering fast trains to London. This charming property is within easy reach of local shops, schools, bus routes, and National Trust woodland. It boasts two receptions, a spacious kitchen/breakfast room, a conservatory, utility room, and cloakroom. Additional features include double glazing, gas central heating, and a beautifully presented interior, making it ideal for families seeking comfort and convenience.",
+            "mapLink":"https://maps.app.goo.gl/1QBtJZeoGoaG1p9i7"
+                    },
+		{
+            "id":"prop2",
+			"type":"Flat",
+            "bedrooms":2,
+			"price":399995,
+			"tenure":"Freehold",
+			"description":"Presented in excellent decorative order throughout is this two double bedroom, two bathroom, garden flat. <br>The modern fitted kitchen is open plan to the living room which boasts solid wooden floors and includes integrated appliances including a dishwasher & a washing machine. This large open plan benefits from bi folding doors onto a secluded private courtyard garden. Both bedrooms are double sized, and the family bathroom boasts a matching three piece suite a shower attachment over the bath. There is also a separate wet room. There are walnut doors throughout and wiring for Sky TV/aerial points in the living room/kitchen and both bedrooms.<br>This apartment being only five years old, is still under a 10 year building guarantee.",
+			"location":"Crofton Road Orpington BR6",
+			"picture":"/images/prop2.jpeg",
+			"url":"properties/prop2.html",
+            "added": {
+                "month":"September",
+                "day":14,
+                "year":2022
+            },
+            "images":[
+                "/images/prop2.jpeg",
+                "/images/prop2-2.jpeg",
+                "/images/prop2-3.jpeg",
+                "/images/prop2-4.jpeg",
+                "/images/prop2-5.jpeg",
+                "/images/prop2-6.jpeg",
+                "/images/prop2-7.jpeg"
+            ],
+            "floorPlan":"/images/prop2-floorplan.png",
+            "longDescrip":"Presented in excellent decorative order, this stunning two double-bedroom, two-bathroom garden flat offers contemporary living at its finest. The modern open-plan kitchen and living room feature solid wooden floors, integrated appliances, and bi-fold doors leading to a private courtyard garden. Both bedrooms are generously sized, complemented by a family bathroom with a three-piece suite and a separate wet room. With walnut doors throughout and Sky TV/aerial wiring, this five-year-old apartment still benefits from a 10-year building guarantee.",
+            "mapLink":"https://maps.app.goo.gl/NTfH9TAMqDsQfXux7"
+    
+        },
+        {
+            "id": "prop3",
+            "type": "House",
+            "bedrooms": 4,
+            "price": 900000,
+            "tenure": "Freehold",
+            "description": "Spacious four-bedroom detached family home...",
+            "location": "Bromley High Street, Bromley BR1",
+            "picture": "/images/prop3.jpeg",
+            "url": "properties/prop3.html",
+            "added": {
+                "month": "November",
+                "day": 10,
+                "year": 2024
+            },
+            "images":[
+                "/images/prop3.jpeg",
+                "/images/prop3-2.jpeg",
+                "/images/prop3-3.jpeg",
+                "/images/prop3-4.jpeg",
+                "/images/prop3-5.jpeg",
+                "/images/prop3-6.jpeg",
+                "/images/prop3-7.jpeg",
+                "/images/prop3-8.jpeg"
+            ],
+            "floorPlan":"/images/prop3-floorplan.png",
+            "longDescrip":"Spacious four-bedroom detached family home located on Bromley High Street, Bromley BR1. This freehold property offers a blend of comfort and convenience, featuring well-proportioned bedrooms, a modern kitchen, and a large living area. Situated close to local amenities, schools, and transport links, it’s perfect for growing families. Priced at £900,000, this home is a great investment in a sought-after area.",
+            "mapLink":"https://maps.app.goo.gl/mjjpWhdM1Y9ewoEk7"
+    
+        },
+        {
+            "id": "prop4",
+            "type": "Flat",
+            "bedrooms": 3,
+            "price": 550000,
+            "tenure": "Leasehold",
+            "description": "Modern three-bedroom flat with stunning city views,, located in the heart of Central London NW1",
+            "location": "Central London NW1",
+            "picture": "/images/prop4.jpeg",
+            "url": "properties/prop4.html",
+            "added": {
+                "month": "December",
+                "day": 5,
+                "year": 2022
+            },
+            "images":[
+                "/images/prop4.jpeg",
+                "/images/prop4-2.jpeg",
+                "/images/prop4-3.jpeg",
+                "/images/prop4-4.jpeg",
+                "/images/prop4-5.jpeg",
+                "/images/prop4-6.jpeg",
+                "/images/prop4-7.jpeg",
+                "/images/prop4-8.jpeg"
+            ],
+            "floorPlan":"/images/prop4-floorplan.png",
+            "longDescrip":"Modern three-bedroom flat with stunning city views, located in the heart of Central London NW1. This leasehold property offers spacious living with a contemporary design, featuring a sleek kitchen, a bright open-plan living area, and three well-proportioned bedrooms. Perfectly positioned near local amenities, transport links, and vibrant city life, it’s an ideal choice for urban living. Priced at £550,000, this flat combines style and convenience in an unbeatable location..",
+            "mapLink":"https://maps.app.goo.gl/SKRnn8qGtUj7qbXz9"
+        
+        },
+        {
+            "id": "prop5",
+            "type": "House",
+            "bedrooms": 2,
+            "price": 650000,
+            "tenure": "Freehold",
+            "description": "Cozy two-bedroom cottage with charming garden, nestled in the picturesque area of Tunbridge Wells NW2. ",
+            "location": "Tunbridge Wells NW2",
+            "picture": "/images/prop5.jpeg",
+            "url": "properties/prop5.html",
+            "added": {
+                "month": "January",
+                "day": 3,
+                "year": 2023
+            },
+            "images":[
+                "/images/prop5.jpeg",
+                "/images/prop5-2.jpeg",
+                "/images/prop5-3.jpeg",
+                "/images/prop5-4.jpeg",
+                "/images/prop5-5.jpeg",
+                "/images/prop5-6.jpeg",
+                "/images/prop5-7.jpeg"
+            ],
+            "floorPlan":"/images/prop5-floorplan.png",
+            "longDescrip":"Cozy two-bedroom cottage with a charming garden, nestled in the picturesque area of Tunbridge Wells NW2. This freehold property boasts a warm and inviting interior, featuring a bright living space, a well-equipped kitchen, and two comfortable bedrooms. The delightful garden offers a peaceful retreat, perfect for relaxing or entertaining. Priced at £650,000, this cottage is an ideal blend of character and comfort in a sought-after location.",
+            "mapLink":"https://maps.app.goo.gl/w7hNkjdxSMw6eHMe7"
+        
+        },
+        {
+            "id": "prop6",
+            "type": "Flat",
+            "bedrooms": 2,
+            "price": 425000,
+            "tenure": "Leasehold",
+            "description": "Stylish two-bedroom flat in sought-after area of Greenwich SE1, offering modern living at an attractive price..",
+            "location": "Greenwich SE1",
+            "picture": "/images/prop6.jpeg",
+            "url": "properties/prop6.html",
+            "added": {
+                "month": "February",
+                "day": 14,
+                "year": 2023
+            },
+            "images":[
+                "/images/prop6.jpeg",
+                "/images/prop6-2.jpeg",
+                "/images/prop6-3.jpeg",
+                "/images/prop6-4.jpeg",
+                "/images/prop6-5.jpeg",
+                "/images/prop6-6.jpeg",
+                "/images/prop6-7.jpeg"
+            ],
+            "floorPlan":"/images/prop6-floorplan.png",
+            "longDescrip":"Stylish two-bedroom flat in a sought-after area of Greenwich SE1, offering modern living at an attractive price of £425,000. This leasehold property features a sleek, open-plan kitchen and living area, two generously sized bedrooms, and contemporary finishes throughout. Conveniently located close to shops, cafes, and excellent transport links, it’s perfect for professionals or small families seeking a vibrant and well-connected neighborhood.",
+            "mapLink":"https://maps.app.goo.gl/h9Muzs5478eku7Hk9"
+        
+        },
+        {
+            "id": "prop7",
+            "type": "House",
+            "bedrooms": 5,
+            "price": 1200000,
+            "tenure": "Freehold",
+            "description": "Luxurious five-bedroom detached home with large gardenlocated in the prestigious area of Esher KT3.",
+            "location": "Esher KT3",
+            "picture": "/images/prop7.jpeg",
+            "url": "properties/prop7.html",
+            "added": {
+                "month": "March",
+                "day": 8,
+                "year": 2024
+            },
+            "images":[
+                "/images/prop7.jpeg",
+                "/images/prop7-2.jpeg",
+                "/images/prop7-3.jpeg",
+                "/images/prop7-4.jpeg",
+                "/images/prop7-5.jpeg",
+                "/images/prop7-6.jpeg",
+                "/images/prop7-7.jpeg"
+            ],
+            "floorPlan":"/images/prop7-floorplan.png",
+            "longDescrip":"Luxurious five-bedroom detached home with a large garden, located in the prestigious area of Esher KT3. This freehold property offers exceptional living space, featuring a modern kitchen, multiple reception rooms, and five spacious bedrooms, including a stunning master suite. The expansive garden provides a perfect setting for outdoor entertaining or relaxation. Priced at £1,200,000, this elegant home combines comfort, style, and exclusivity in a highly desirable location.",
+            "mapLink":"https://maps.app.goo.gl/VqyyYmAca3BcdwVr6"
+        
+        }
+
+]}
